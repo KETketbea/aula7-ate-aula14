@@ -1,0 +1,16 @@
+h1{
+    display: none;
+}
+
+h2{
+display: block;
+}
+
+h3{
+display: inline;
+}
+
+h4{
+display: inline-block;
+
+}

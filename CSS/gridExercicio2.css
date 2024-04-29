@@ -1,0 +1,38 @@
+.container{
+height: 100vh;
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+grid-template-rows: repeat(4, 1fr);
+grid-template-areas: 
+"box1 box1 box1 box1"
+"box2 box3 box3 box3"
+"box4 box4 box4 box5"
+"box6 box6 box6 box6"
+;
+gap: 2px;
+}
+.box1{
+    grid-area: box1 ;
+    background-color:#ffdaba;
+}
+.box2{
+    grid-area: box2 ;
+    background-color:#F2C299;
+
+}
+.box3{
+grid-area: box3 ;
+background-color:#F2884B; 
+}
+.box4{
+grid-area: box4 ;
+background-color:#D97855;
+}
+.box5{
+grid-area: box5 ;
+background-color:#A65746;
+}
+.box6{
+grid-area: box6 ;
+background-color:#7c3525 ;
+}

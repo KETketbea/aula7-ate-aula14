@@ -1,0 +1,24 @@
+.box1 {
+
+    height: 300vh;
+    width: 300vh;
+    background-color: rgb(255, 0, 0);
+    margin-bottom: 5px;
+    border: 1px solid red;
+}
+
+.box2 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(51, 255, 0);
+    margin-bottom: 5px;
+    border: 1px solid rgb(51, 255, 0);
+}
+
+.box3 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(0, 47, 255);
+    margin-bottom: 5px;
+    border: 1px solid rgb(25, 0, 255);
+}

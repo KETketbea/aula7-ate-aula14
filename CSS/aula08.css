@@ -1,0 +1,17 @@
+*{
+    margin:0 ;
+    padding:0 ;
+    box-sizing: border-box;
+}
+:root{
+--COR-PRIMARY:#F2CED5;
+--COR-SECONDARY:#A68A91;
+--COR-TERTIARY:#3B2F40;
+--fonte--tamanho:1.5rem;
+}
+h1{
+    color: var(--COR-TERTIARY);
+}
+p{
+    font-size: var(--fonte--tamanho);
+}
